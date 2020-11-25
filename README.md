@@ -13,6 +13,7 @@ sum of the differences in the two dimensions: |2-0| + |1-4| = 2 + 3 = 5
 4. For the purposes of the initial exercise, the array dimensions do not wrap. That is, the
 first column should not be considered adjacent to the last column (unless W < 3), and
 the top row should not be considered adjacent to the bottom row (unless H < 3).
+
 The task
 The task is to write a routine that will return the number of cells that fall within N steps of any
 positive values in the array. Note:
